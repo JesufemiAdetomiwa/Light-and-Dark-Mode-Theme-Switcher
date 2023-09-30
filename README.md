@@ -1,0 +1,1 @@
+This is a HTML and Javascript code for implementing a light mode and dark mode toggle functionality on a webpage.
